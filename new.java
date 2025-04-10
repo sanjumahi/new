@@ -2,5 +2,5 @@ class hello
 {
  public static void main(String a[])
  {
-  System.out.println("sanjana");
+  System.out.println("new");
   }}
